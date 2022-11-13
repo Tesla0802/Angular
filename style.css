@@ -2,3 +2,23 @@
     height: 0px;
     width: 0px;
 }
+
+body{
+    background-color: #060606;
+}
+
+.scroll{
+    position: fixed;
+}
+
+.scroll-board{
+    background-color: transparent;
+    border: 1px solid #3f3f3f;
+    width: 8.5vh;
+    height: 8.5vh;
+    border-radius: 90%;
+    position: absolute;
+    top: 50rem;
+    left: 5rem;
+}
+
